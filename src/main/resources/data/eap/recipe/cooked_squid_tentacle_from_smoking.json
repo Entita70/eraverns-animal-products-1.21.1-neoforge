@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 100,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "eap:squid_tentacle"
+  },
+  "result": {
+    "id": "eap:cooked_squid_tentacle"
+  }
+}

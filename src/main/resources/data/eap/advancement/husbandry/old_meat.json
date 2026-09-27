@@ -1,0 +1,37 @@
+{
+  "display": {
+    "hidden": true,
+    "frame": "challenge",
+    "icon": {
+      "id": "eap:raw_ancient_chop"
+    },
+    "title": {
+      "translate": "advancements.husbandry.old_meat.title"
+    },
+    "description": {
+      "translate": "advancements.husbandry.old_meat.description"
+    }
+  },
+  "parent": "minecraft:husbandry/obtain_sniffer_egg",
+  "criteria": {
+    "meat": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "eap:raw_ancient_chop"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "meat"
+    ]
+  ],
+  "rewards": {
+    "experience": 6
+  },
+  "sends_telemetry_event": true
+}

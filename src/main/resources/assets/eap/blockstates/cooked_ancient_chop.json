@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "meat_bites=0": {
+      "model": "eap:block/cooked_ancient_chop_full"
+    },
+    "meat_bites=1": {
+      "model": "eap:block/cooked_ancient_chop_eaten_1"
+    },
+    "meat_bites=2": {
+      "model": "eap:block/cooked_ancient_chop_eaten_2"
+    },
+    "meat_bites=3": {
+      "model": "eap:block/cooked_ancient_chop_eaten_3"
+    }
+  }
+}

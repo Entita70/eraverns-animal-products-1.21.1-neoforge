@@ -1,0 +1,8 @@
+{
+	"parent": "eap:block/chop_full",
+	"textures": {
+		"bone": "eap:block/chop_bone",
+		"side": "eap:block/cooked_chop_side",
+		"top": "eap:block/cooked_chop_top"
+	}
+}

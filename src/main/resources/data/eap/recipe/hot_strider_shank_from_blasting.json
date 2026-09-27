@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "food",
+  "cookingtime": 100,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "eap:cold_strider_shank"
+  },
+  "result": {
+    "id": "eap:hot_strider_shank"
+  }
+}

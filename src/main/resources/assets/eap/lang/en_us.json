@@ -1,0 +1,36 @@
+{
+
+  "item.eap.raw_horse_steak": "Raw Horse Steak",
+  "item.eap.cooked_horse_steak": "Cooked Horse Steak",
+  "item.eap.raw_wild_meat": "Raw Wild Meat",
+  "item.eap.cooked_wild_meat": "Cooked Wild Meat",
+  "item.eap.raw_camel_meat": "Raw Camel Meat",
+  "item.eap.cooked_camel_meat": "Cooked Camel Meat",
+  "item.eap.raw_carnivore_meat": "Raw Carnivore Meat",
+  "item.eap.cooked_carnivore_meat": "Cooked Carnivore Meat",
+  "item.eap.squid_tentacle": "Squid Tentacle",
+  "item.eap.cooked_squid_tentacle": "Cooked Squid Tentacle",
+  "item.eap.bee": "Bee",
+  "item.eap.cooked_bee": "Cooked Bee",
+  "item.eap.frog_leg": "Frog Leg",
+  "item.eap.cooked_frog_leg": "Cooked Frog Leg",
+  "item.eap.axolotl_tail": "Axolotl Tail",
+  "item.eap.cooked_axolotl_tail": "Cooked Axolotl Tail",
+  "item.eap.cold_strider_shank": "Cold Strider Shank",
+  "item.eap.hot_strider_shank": "Hot Strider Shank",
+  "item.eap.raw_ancient_meatchop": "Raw Ancient Meat-Chop",
+  "item.eap.cooked_ancient_meatchop": "Cooked Ancient Meat-Chop",
+
+
+  "block.eap.raw_ancient_chop": "Raw Ancient Chop",
+  "block.eap.cooked_ancient_chop": "Cooked Ancient Chop",
+
+
+  "advancements.husbandry.wild.title": "How Wild?",
+  "advancements.husbandry.wild.description": "obtain some wild meat",
+
+  "advancements.husbandry.old_meat.title": "Probably Moldy",
+  "advancements.husbandry.old_meat.description": "kill a sniffer and get a piece of questionable meat from it"
+
+
+}

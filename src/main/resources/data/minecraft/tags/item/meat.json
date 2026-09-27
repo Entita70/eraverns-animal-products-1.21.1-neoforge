@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "eap:raw_horse_steak",
+    "eap:cooked_horse_steak",
+    "eap:raw_wild_meat",
+    "eap:cooked_wild_meat",
+    "eap:frog_leg",
+    "eap:cooked_frog_leg",
+    "eap:raw_ancient_meatchop",
+    "eap:cooked_ancient_meatchop",
+    "eap:raw_camel_meat",
+    "eap:cooked_camel_meat",
+    "eap:raw_carnivore_meat",
+    "eap:cooked_carnivore_meat",
+    "eap:axolotl_tail",
+    "eap:cooked_axolotl_tail"
+  ]
+}

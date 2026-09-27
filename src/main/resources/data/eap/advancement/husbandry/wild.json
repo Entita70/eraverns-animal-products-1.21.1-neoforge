@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "id": "eap:raw_wild_meat"
+    },
+    "title": {
+      "translate": "advancements.husbandry.wild.title"
+    },
+    "description": {
+      "translate": "advancements.husbandry.wild.description"
+    }
+  },
+  "parent": "minecraft:husbandry/root",
+  "criteria": {
+    "wild": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "eap:raw_wild_meat"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "wild"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

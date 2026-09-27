@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 100,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "eap:raw_ancient_chop"
+  },
+  "result": {
+    "id": "eap:cooked_ancient_chop"
+  }
+}

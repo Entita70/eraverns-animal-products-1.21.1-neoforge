@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "eap:raw_ancient_meatchop"
+  },
+  "result": {
+    "id": "eap:cooked_ancient_meatchop"
+  }
+}
